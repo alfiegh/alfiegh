@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on a **Blog!** 
-- 🌱 I’m currently learning the *Backend development*
+- 🌱 I’m currently learning *Backend development*
 - 👯 I’m looking to collaborate on anything I can, always happy to collaborate!
 - 🤔 I’m looking for help with **web3** libraries
 - 💬 Ask me about anything! If I don't know we can learn together!
